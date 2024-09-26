@@ -49,10 +49,10 @@ Skills: PHP / Laravel / Codeignaiter / WordPress / Shopify / Vue Js / Headless C
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanemrahman&layout=donut)]
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanemrahman)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanemrahman&layout=donut)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&show=reviews)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanemrahman)](https://git.io/streak-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tanemrahman&theme=react)](https://github.com/tanemrahman/github-readme-activity-graph)
