@@ -51,7 +51,7 @@ Skills: PHP / Laravel / Codeignaiter / WordPress / Shopify / Vue Js / Headless C
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanemrahman&layout=donut)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&show=reviews)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanemrahman\&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanemrahman)](https://git.io/streak-stats)
 
