@@ -14,7 +14,7 @@ Skills: PHP / Laravel / Codeignaiter / WordPress / Shopify / Vue Js / Headless C
 
 - 🔭 I’m currently working on [Fiverr](https://fiverr.com/tanemrahman), [Upwork](https://upwork.com/)
 
-- 🌱 I’m currently learning **Python, Vue JS, Tailwind CSS, ZKTeco Machine**
+- 🌱 I’m currently learning **Python, Vue JS, Tailwind CSS**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/tanemrahman)
 
